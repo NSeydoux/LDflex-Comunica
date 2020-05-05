@@ -27,8 +27,8 @@
     "lib"
   ],
   "dependencies": {
-    "@comunica/actor-http-solid-auth-fetch": "^1.0.1",
-    "@comunica/actor-init-sparql": "^1.12.1"
+    "@comunica/actor-init-sparql": "^1.12.1",
+    "@comunica/actor-http-solid-auth-fetch": "github:NSeydoux/actor-http-solid-auth-fetch#feature/solid-auth-upgrade"
   },
   "peerDependencies": {
     "ldflex": "^2.0.0"
